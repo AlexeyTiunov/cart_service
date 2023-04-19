@@ -9,7 +9,7 @@
   
   #### API lambda endpoint: https://9vzibwsc8c.execute-api.us-east-1.amazonaws.com/dev/
 
-  #### examples GET/DELETE http://localhost:3000/dev/api/profile/cart?userId=616a6302-1975-4d26-b430-3d824c257e2d
+  #### examples GET/DELETE https://9vzibwsc8c.execute-api.us-east-1.amazonaws.com/dev/api/profile/cart?userId=9855cde9-b6d4-49d5-b074-3097ce6c2c99
 
 
    
